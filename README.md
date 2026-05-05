@@ -5,7 +5,7 @@ This is my personal portfolio website built using **React.js** to showcase my pr
 ---
 
 ## 🚀 Live Demo
-🔗https://deeipika-portfolio.netlify.app
+🔗https://vocal-dasik-74b893.netlify.app/
 
 ---
 ## 📌 Features
