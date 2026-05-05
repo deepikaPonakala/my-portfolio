@@ -4,11 +4,6 @@ This is my personal portfolio website built using **React.js** to showcase my pr
 
 ---
 
-## 🚀 Live Demo
-🔗 https://your-portfolio-link.netlify.app
-
----
-
 ## 📌 Features
 - Fully responsive design (mobile, tablet, desktop)
 - Multiple pages using React Router
