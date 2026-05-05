@@ -35,27 +35,6 @@ This is my personal portfolio website built using **React.js** to showcase my pr
 
 ---
 
-## 📂 Project Structure
-my-portfolio/
-│── public/
-│── src/
-│ ├── components/
-│ │ ├── Navbar.jsx
-│ │ └── Footer.jsx
-│ ├── pages/
-│ │ ├── Home.jsx
-│ │ ├── About.jsx
-│ │ ├── Skills.jsx
-│ │ ├── Projects.jsx
-│ │ └── Contact.jsx
-│ ├── App.jsx
-│ ├── App.css
-│ └── main.jsx
-│── package.json
-│── vite.config.js
-
----
-
 ## 📸 Sections Included
 
 - 🏠 Home  
